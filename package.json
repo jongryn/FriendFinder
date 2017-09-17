@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jongryn/FriendFinder/issues"
   },
-  "homepage": "https://github.com/jongryn/FriendFinder#readme"
+  "homepage": "https://github.com/jongryn/FriendFinder#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }
