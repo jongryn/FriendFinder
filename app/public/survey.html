@@ -281,7 +281,7 @@ Revisions: Jon (9/15/17) - Created survey.html
             $('#question7').val().trim(),
             $('#question8').val().trim(),
             $('#question9').val().trim(),
-            $('#question10').val().trim(),
+            $('#question10').val().trim()
           ]
         };
 
@@ -289,7 +289,7 @@ Revisions: Jon (9/15/17) - Created survey.html
 
         // Add user inputs to friends List
         $.post('/api/friends', userInput)
-      .dont(function(data) {
+      .done(function(data) {
 
         // console.log('response = ' + JSON.stringify(data));
 
