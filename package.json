@@ -1,18 +1,19 @@
 {
-  "name": "FriendFinder",
+  "name": "friendfinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "Link: https://friendlyfriendfinder.herokuapp.com/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jongryn/FriendFinder.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jonathan Gryn",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jongryn/FriendFinder/issues"
   },
@@ -23,5 +24,6 @@
   },
   "engines": {
     "node": "7.9.0"
-  }
+  },
+  "devDependencies": {}
 }
