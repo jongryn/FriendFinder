@@ -1,6 +1,6 @@
 # FriendFinder
 
-Link: https://git.heroku.com/app-friend-finder.git
+Link: https://app-friend-finder.herokuapp.com/
 
 Friend Finder Application
 
