@@ -17,7 +17,7 @@ Link: https://app-friend-finder.herokuapp.com/
 To install the application follow the instructions below:
 
 	git clone git@github.com:jongryn/friendfinder.git
-	cd friend-finder
+	cd friendfinder
 	npm install
 	
 ## Running Locally
